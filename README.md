@@ -4,9 +4,13 @@
 
 10+ years of experience in cybersecurity, with a focus on offensive security.
 
-**Areas of Focus**
+## Areas of Focus
 - Red Team Operations
 - Penetration Testing
 - Vulnerability Research
 - Attack Surface Management
 - Responsible Disclosure
+
+## Selected Projects
+- [RisikoDetektiv](https://github.com/oldnco/RisikoDetektiv) — An open-source Python project for practical security exploration.
+- [php2shell-Kontrolle](https://github.com/oldnco/php2shell-Kontrolle) — PowerShell tooling for reviewing publicly exposed PHP version information.
